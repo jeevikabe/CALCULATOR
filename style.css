@@ -8,14 +8,18 @@
     height: 93vh;
     color: aliceblue;
     padding: 15px;
+   
 
 
    /* transform-style: preserve-3d;
     animation: animate 4s linear infinite;
   position: relative;*/
 
-   
 
+}
+
+.body{
+    background-image: url("abc.png");
 }
 
 /*@keyframes animate
